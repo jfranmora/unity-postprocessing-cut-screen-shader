@@ -1,7 +1,7 @@
 # [Unity] Cut Screen Shader - Post Processing Stack V2
 Camera effect for PostProcessingStackV2
 
-![](https://i.imgur.com/jUArJPY.gif)
+![](20190730_cutscreenshader.gif)
 
 # How to use
 1. Install PostProcessingStackV2 in your Unity Project.
